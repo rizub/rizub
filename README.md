@@ -1,46 +1,72 @@
-# 👋 Hi, I'm Ubai
+<h1 align="center">Hey there, I'm Ubai 👋</h1>
+<p align="center">
+  <em>Engineer, Builder, Automator.<br>
+  I build apps that scale, pipelines that don't break, and APIs that don't lie.</em>
+</p>
 
-I'm a pragmatic engineer who believes in **clean architecture**, **testable code**, and **automated workflows**. I craft things using **Laravel**, **Vue**, and **Docker**, with a sprinkle of DevOps. Currently building hybrid apps that scale and deploy like butter.
-
----
-
-## 🧰 My Toolbox
-
-- 🧠 **Backend**: Laravel, Octane, REST API, Pest
-- 🎨 **Frontend**: Vue 3, Vite, TailwindCSS, SPA & hybrid apps
-- 📦 **DevOps**: Docker, Portainer, GitHub Actions, rsync over SSH
-- ☁️ **Deployment Stack**: Apache (host) → Nginx (container) → Laravel Octane
-- 🔁 **CI/CD**: Branch strategy (dev → staging → main), automated deploys via GitHub Actions
-- 🔍 **Testing**: Pest for Laravel, pragmatic TDD/BDD
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Fast%20and%20Clean-red?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-Hybrid%20Frontend-41B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Infra%20As%20Code-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pest-Test%20First-purple?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 What I'm Working On
+### 🛠️ Tech Stack
 
-- Building **modular hybrid apps** with Vue + Laravel
-- Optimizing DX with Docker & CI pipelines
-- Experimenting with **device-integrated POS systems**
-- Engineering deployment workflows that don't suck
-
----
-
-## 🧭 Values I Code By
-
-- 💡 Simplicity wins. Complexity loses.
-- 🧪 If it's not tested, it's broken.
-- 🛠️ Automation over repetition.
-- 🚧 Build like it’s going to production (because it is).
+- **Backend:** Laravel + Octane, API-first design, Pest for testing  
+- **Frontend:** Vue 3, TailwindCSS, SPA + Hybrid Routing  
+- **Infra:** Docker, Portainer, GitHub Actions, CI/CD with SSH rsync  
+- **Deploy Stack:** Apache (host) → Nginx (container) → Laravel Octane  
+- **Tools:** Vite, Git, bash scripting, custom Apache/Nginx config
 
 ---
 
-## 📫 Let's Connect
+### 🚀 What I'm Building
 
-Wanna talk code, systems, or just geek out about scalable infra?
-
-- ✉️ DM me on GitHub
-- 🌍 [Coming soon: personal site?]
+- 🧩 Modular Laravel + Vue hybrid apps  
+- 🤖 CI pipelines that deploy from `dev → staging → main`  
+- 📱 POS system integrated with custom handheld hardware  
+- ⚡ Optimized DX for local-to-server workflows via Docker + GitHub Actions
 
 ---
 
-> "Code is a liability. Keep it lean, keep it clean."
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizub&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizub&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### 🧠 Philosophy
+
+> “Automate everything, test what matters, and deploy like a ninja.”
+
+- 🧼 Keep it clean
+- 🧪 If it’s not tested, it’s risky
+- 🛠️ DevOps is developer responsibility
+- 🚢 Code like it’s going live every push
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Hi-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-Coming%20Soon-orange?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Optional: Spotify Now Playing
+### 🎧 Now Playing on Spotify
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizub&style=flat-square&color=green" alt="profile views"/>
+</p>
