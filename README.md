@@ -55,17 +55,17 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Hi-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-Coming%20Soon-orange?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
+  <a href="mailto:emailnya.ubai@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Hi-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rizubai"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hr.bdspt.com/id-card?name=Rizqi%20Ubaidillah"><img src="https://img.shields.io/badge/Website-Coming%20Soon-orange?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- Optional: Spotify Now Playing
+
 ### 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
--->
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/rizub)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rizub&style=flat-square&color=green" alt="profile views"/>
