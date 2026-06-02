@@ -1,5 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Integration%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C47FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ubai+%F0%9F%91%8B;Systems+Integration+Engineer;Full+Stack+Developer;Lark+Suite+%7C+NetSuite+%7C+AI+Tooling;TypeScript+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C47FF&center=true&vCenter=true&width=650&lines=Building+Lark+bots+%26+middleware+%F0%9F%A4%96;TypeScript+%7C+Next.js+%7C+Laravel+%7C+Python;AI-assisted+development+%F0%9F%A7%A0;Deploy+via+Coolify+%2B+Traefik+%F0%9F%9A%80;NetSuite+%7C+Lark+Suite+%7C+REST+API" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -34,7 +36,15 @@
 
 ---
 
-### 🐍 Contribution Graph
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rizub&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizub/rizub/output/github-contribution-grid-snake-dark.svg">
@@ -44,11 +54,17 @@
 
 ---
 
+### 📈 Activity Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizub&theme=react-dark&hide_border=true&area=true&area_color=6C47FF" alt="activity graph"/>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rizub&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" alt="streak stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizub&theme=radical" height="160" alt="repos per language"/>
+  <img src="https://streak-stats.demolab.com?user=rizub&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizub&theme=radical" height="165" alt="top languages"/>
 </p>
 
 ---
@@ -79,3 +95,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rizub&style=flat-square&color=6C47FF" alt="profile views"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
