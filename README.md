@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ubai&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Systems%20Integration%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=82&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Integration%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C47FF&center=true&vCenter=true&width=680&lines=Building+Lark+bots+%26+middleware+%F0%9F%A4%96;TypeScript+%7C+Next.js+%7C+Laravel+%7C+Python;AI-assisted+development+%F0%9F%A7%A0;Coolify+%2B+Traefik+%2B+Webhook+auto-deploy+%F0%9F%9A%80;NetSuite+%7C+Lark+Suite+%7C+REST+API" alt="Typing SVG"/>
@@ -81,12 +81,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizub&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>
@@ -137,4 +131,4 @@
   <img src="https://komarev.com/ghpvc/?username=rizub&style=for-the-badge&color=6C47FF&label=PROFILE+VIEWS"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
