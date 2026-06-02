@@ -93,11 +93,14 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizub&theme=react-dark&hide_border=true&area=true&area_color=6C47FF&color=6C47FF&line=6C47FF&point=ffffff"/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
+
+<img src="github-metrics.svg" width="100%"/>
+
+### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rizub&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C47FF&fire=FF6B6B&currStreakLabel=6C47FF" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizub&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rizub&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C47FF&fire=FF6B6B&currStreakLabel=6C47FF"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
