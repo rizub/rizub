@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Integration%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rizub&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Integration%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C47FF&center=true&vCenter=true&width=680&lines=Building+Lark+bots+%26+middleware+%F0%9F%A4%96;TypeScript+%7C+Next.js+%7C+Laravel+%7C+Python;MCP+Server+Development+%F0%9F%94%8C;WhatsApp+API+%7C+Ollama+%7C+n8n+Automation;Coolify+%2B+Traefik+%2B+Self-hosted+Infra+%F0%9F%9A%80" alt="Typing SVG"/>
