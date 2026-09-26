@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Lead%20Platform%20Engineer%20%7C%20AI%20Systems%20%26%20Cloud%20Architect&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Lead%20Platform%20Engineer%20%7C%20Multi-Agent%20AI%20%7C%20Cloud%20Architect&descAlignY=58&descSize=18"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C47FF&center=true&vCenter=true&width=750&lines=Multi-Node+K3s+Kubernetes+Orchestration+%E2%98%81%EF%B8%8F;Autonomous+Multi-Agent+AI+Orchestration+%26+MCP+Servers+%F0%9F%A4%96;Enterprise+Systems+Integration+%7C+NetSuite+%7C+Odoo+%7C+Lark;Intelligent+Document+Parsing+%26+PO+Workflow+Automation+%F0%9F%93%84;In-Cluster+CI%2FCD+Runner+Fleet+%26+Platform+Engineering+%F0%9F%9A%80" alt="Typing SVG"/>
